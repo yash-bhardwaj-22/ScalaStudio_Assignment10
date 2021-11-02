@@ -1,5 +1,3 @@
-import scala.::
-
 class HeadAndTail {
   def isort(xs: List[Int]): List[Int] = {
     if (xs.isEmpty) Nil
